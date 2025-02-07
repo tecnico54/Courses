@@ -1,10 +1,10 @@
-#Server{
+i{
   margin: 0 35px;
   font-size: 15px;
 }
-#Server > a{
+a > i{
   text-decoration: none;
 }
-#Server:hover > a{
+i:hover > a{
   border: 5px dasher rgb(255, 0, 0);
 }
