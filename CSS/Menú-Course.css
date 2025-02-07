@@ -1,9 +1,7 @@
 i{
-  margin: 0 35px;
-  font-size: 15px;
-}
-a > i{
-  text-decoration: none;
+  margin: 0 25px;
+  width: 15px;
+  color: #26e;
 }
 i:hover > a{
   border: 5px dasher rgb(255, 0, 0);
