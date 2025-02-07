@@ -1,0 +1,10 @@
+#Server{
+  margin: 0 10px;
+}
+#Server > a{
+  text-decoration: none;
+}
+#Server:hover > a{
+  font-size: 15px;
+  border: 5px dasher rgb(255, 0, 0);
+}
